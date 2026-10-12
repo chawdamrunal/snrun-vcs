@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <api_name>x_snrun.vcsapp.W5DAttackerFile</api_name>
+        <client_callable>false</client_callable>
+        <description>w5d crafted delta record file — inserted by attacker via repo push</description>
+        <name>W5DAttackerFile</name>
+        <script>var W5DAttackerFile = Class.create();\nW5DAttackerFile.prototype = { initialize: function() {}, type: 'W5DAttackerFile' };</script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-12 10:00:00</sys_created_on>
+        <sys_id>a17da2fbc35d8310eae33bec05013199</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>W5DAttackerFile</sys_name>
+        <sys_package display_value="snrun_vcs_app" source="NULL">9f1a2b33c3f03110eae33bec050131aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="snrun_vcs_app">9f1a2b33c3f03110eae33bec050131aa</sys_scope>
+        <sys_update_name>sys_script_include_a17da2fbc35d8310eae33bec05013199</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-12 10:00:00</sys_updated_on>
+    </sys_script_include>
+</record_update>
