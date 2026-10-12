@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_attachment">
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <bits_per_pixel/>
+        <content_type>application/octet-stream</content_type>
+        <file_name>../../../../w5d_trav_out.bin</file_name>
+        <format/>
+        <height>0</height>
+        <image_height/>
+        <image_width/>
+        <size_bytes>21</size_bytes>
+        <size_compressed>21</size_compressed>
+        <sys_class_name>sys_attachment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-12 10:05:00</sys_created_on>
+        <sys_id>1e8fb52bc35d8310eae33bec05013111</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>../../../../w5d_trav_out.bin</sys_name>
+        <sys_package display_value="snrun_vcs_app" source="NULL">9f1a2b33c3f03110eae33bec050131aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="snrun_vcs_app">9f1a2b33c3f03110eae33bec050131aa</sys_scope>
+        <sys_update_name>sys_attachment_1e8fb52bc35d8310eae33bec05013111</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-12 10:05:00</sys_updated_on>
+        <table_name>sys_script_include</table_name>
+        <table_sys_id>a17da2fbc35d8310eae33bec05013199</table_sys_id>
+        <width>0</width>
+    </sys_attachment>
+</record_update>
